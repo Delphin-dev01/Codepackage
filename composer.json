@@ -1,0 +1,16 @@
+{
+    "name": "delphinmario/codepackage",
+    "description": "My package on packagist",
+    "autoload": {
+        "psr-4": {
+            "Delphinmario\\Codepackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Delphin Ahouandjinou",
+            "email": "ahouandjinoudelph@gmail.com"
+        }
+    ],
+    "require": {}
+}
