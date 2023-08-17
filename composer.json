@@ -12,5 +12,8 @@
             "email": "ahouandjinoudelph@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "delphinmario/codepackage" : "1.0.0"
+
+    }
 }
