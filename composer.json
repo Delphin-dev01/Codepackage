@@ -13,7 +13,8 @@
         }
     ],
     "require": {
-        "delphinmario/codepackage" : "1.0.0"
+        "delphinmario/codepackage": "1.0.0"
 
     }
+   
 }
