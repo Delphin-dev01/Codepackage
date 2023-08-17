@@ -1,6 +1,7 @@
 {
     "name": "delphinmario/codepackage",
     "description": "My package on packagist",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Delphinmario\\Codepackage\\": "src/"
@@ -13,7 +14,7 @@
         }
     ],
     "require": {
-        "delphinmario/codepackage": "1.0.0"
+       
 
     }
    
